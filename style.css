@@ -815,7 +815,6 @@ footer span a:hover {
         position: fixed;
         height: 100%;
         width: 50%;
-        left: -100%;
         top: 0;
         background: #111;
         text-align: center;
@@ -824,7 +823,7 @@ footer span a:hover {
     }
 
     .navbar .menu.active {
-        right: 0;
+        left: 0;
     }
 
     .navbar .menu li {
