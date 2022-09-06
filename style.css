@@ -136,7 +136,7 @@ section .title::after {
     font-size: 20px;
     font-weight: 500;
     margin-left: 28px;
-    transition: color 0.6s ease;
+    transition: color 0.4s ease;
 }
 
 .navbar .menu li a:hover {
@@ -144,7 +144,7 @@ section .title::after {
 }
 
 .navbar.sticky .menu li a:hover {
-    color: #cfb8b8;
+    color: rgb(184, 195, 225);
 }
 
 /* menu btn styling */
@@ -238,10 +238,6 @@ section .title::after {
     font-weight: 400;
     border-radius: 12px;
     transition: all 0.6s ease;
-}
-
-.home .home-content a:hover {
-    background: #630d0dec;
 }
 /* Social Icons Styling */
 .socials {
